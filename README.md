@@ -56,8 +56,8 @@ I am a **Software Engineer** with over 5 years of experience designing and devel
 ---
 
 ## 🌟 **Get in Touch**
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/sujeetkumarkannaujia)
+- **Email:** kannaujiasujeetkumar@gmail.com
 - **Portfolio:** [Your Portfolio](https://yourportfolio.com)
 
 Let’s connect and collaborate on exciting projects!
